@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe10d86d76e6a45b6120ad4bb2eca6e400735468e",
+  "SCAN_LINK": "https://etherscan.io/token/0xe10d86d76e6a45b6120ad4bb2eca6e400735468e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Luxurious HabBits",
+  "SYMBOL": "LxH",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/luxurious-habbits",
+  "SHOW_BACKGROUND": true
+}
